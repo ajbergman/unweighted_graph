@@ -1,7 +1,7 @@
 /**
  * UnweightedGraph Class
  * Stub written by Sorrachai Yingchareonthawornchai, 29 OCT 2014
- * Completed by [Your Name]
+ * Completed by Alex Bergman
  */
 #include "UnweightedGraph.h"
 

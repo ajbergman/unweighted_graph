@@ -1,7 +1,7 @@
 /**
  * UnweightedGraph Class
  * Interface written by Sorrachai Yingchareonthawornchai, 29 OCT 2014
- * Completed by [Your Name]
+ * Completed by Alex Bergman
  */
 #ifndef UnweightedGraph_H
 #define UnweightedGraph_H
